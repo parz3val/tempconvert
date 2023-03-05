@@ -2,7 +2,6 @@
 name = "tempconvert"
 version = "0.1.0"
 edition = "2021"
-documentation = "README.md"
 description = "package to convert temperature into different units, and their types"
 license="MIT"
 
